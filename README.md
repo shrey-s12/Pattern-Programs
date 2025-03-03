@@ -25,6 +25,11 @@ The following functions are available:
 
   ![Screenshot 2025-03-03 113340](https://github.com/user-attachments/assets/7d351b0f-85ac-4ae5-baf5-d5e2f49c7f93)
 
+- print10(n): [Half-diamond pattern](https://github.com/shrey-s12/Pattern-Programs/blob/bd2219d83844dd1489aa5a190e8440cc2d1621ec/patterns.cpp#L64)
+
+  ![Screenshot 2025-03-03 113408](https://github.com/user-attachments/assets/da562e34-f518-4d8c-9710-f428aa491256)
+
+
 
 ## Example Usage
 
